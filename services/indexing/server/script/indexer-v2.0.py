@@ -135,6 +135,7 @@ icon_mapping = {
     ".mp3": "https://cstatic.yeahgames.net/services/indexing/icons/audio.svg",
     ".mp4": "https://cstatic.yeahgames.net/services/indexing/icons/video.svg",
     ".mov": "https://cstatic.yeahgames.net/services/indexing/icons/video.svg",
+    ".gemspec": "https://cstatic.yeahgames.net/services/indexing/icons/ruby.svg",
 }
 
 
