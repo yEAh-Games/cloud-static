@@ -32,7 +32,7 @@ header = (
     "</head>"
     "<body>"
     "<div id=\"page-header\">"
-    "<h1>Index of {}</h1>"
+    "<h1>Index of {}<a title='The files listed in the index below are hosted with the yEAh Cloud file service.' href='https://cloud.yeahgames.net'><img src='https://cstatic.yeahgames.net/global/assets/branding/logo.svg' style='width:32px;float:right'></a></h1>"
     "<input type=\"text\" id=\"search\" placeholder=\"Search for a file...\" oninput=\"filterTable()\">"
     "</div>"
     "<table id=\"fileTable\">"
