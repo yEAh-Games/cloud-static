@@ -11,6 +11,13 @@ header = (
     "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
     "<title>Index of {}</title>"
     "<link rel='icon' href='https://cstatic.yeahgames.net/global/assets/branding/logo.svg'>"
+    "<script async src='https://www.googletagmanager.com/gtag/js?id=G-G9MR24Z7ZC'></script>"
+    "<script>"
+    "window.dataLayer = window.dataLayer || [];"
+    "function gtag(){{dataLayer.push(arguments);}}"
+    "gtag('js', new Date());"
+    "gtag('config', 'G-G9MR24Z7ZC');"
+    "</script>"
     "<style>"
     "body {{ font-family: Arial, sans-serif; }}"
     "#page-header {{ padding: 10px; background-color: #f5f5f5; }}"
@@ -135,6 +142,7 @@ icon_mapping = {
     ".mp3": "https://cstatic.yeahgames.net/services/indexing/icons/audio.svg",
     ".mp4": "https://cstatic.yeahgames.net/services/indexing/icons/video.svg",
     ".mov": "https://cstatic.yeahgames.net/services/indexing/icons/video.svg",
+    ".gemspec": "https://cstatic.yeahgames.net/services/indexing/icons/ruby.svg",
 }
 
 
