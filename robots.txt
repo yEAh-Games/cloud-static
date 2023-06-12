@@ -1,1 +1,9 @@
 Sitemap: https://cstatic.yeahgames.net/sitemap.xml
+
+User-agent: *
+Disallow: /_config.yml
+Disallow: /CNAME
+Disallow: /_includes
+Disallow: /cdn-cgi/
+Disallow: /cdn-cgi
+Disallow: /cdn-cgi/*
